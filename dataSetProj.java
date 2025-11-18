@@ -10,6 +10,7 @@ public class dataSetProj {
         while(s.hasNextLine()){
             String line =s.nextLine();
             String[] str =line.split(",");
+            
 
         }
 
