@@ -91,10 +91,10 @@ public class dataSetProj {
         
 
     }
-    public static String max (int[] arr){
+    public static String max (int[] arr){//a method to determine the max number in of foods and 
         int max=Math.max(Math.max(arr[0],arr[1]),Math.max(arr[2],arr[3]));
         int indx=0;
-        for(int i=0; i<4;i++){
+        for(int i=0; i<arr.length;i++){
             if (max==arr[i]){
                 indx=i;
             }
