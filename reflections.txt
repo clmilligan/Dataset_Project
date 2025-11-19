@@ -1,17 +1,23 @@
 1.Intro
     a. What was your general motivation for exploring this topic (i.e.
     your dataset choice)?
+         I was interested in food (and was most likely hungry) so I wanted to see what patterns could be determined through online food orders. 
     b. Briefly describe how the data was collected in your chosen
     dataset.
+        The data was collected through food panda and other food delivery services, it collect data including including customer, restaurant, and delivery details.
     c. Which question did you end up exploring further?
+        I ended up exploring the question of most popular food in a given season because I wanted to see if there was a corelation; however it seems that there was not completley, people just like pasta. 
 2. Process
-    a. How did you go about answering your question? What specific
-    pieces of info did you extract from your dataset and how did you
-    use that data to answer your question?
-    b. What difficulties did you run into and how did you approach
-    solving them?
+    a. How did you go about answering your question? What specific pieces of info did you extract from your dataset and how did you use that data to answer your question?
+        I used the data of the date ordered and the food ordered; i was able to splice the date and substing to get the month of the order and then sorted it by month and found the most popular food in that season.
+    b. What difficulties did you run into and how did you approach solving them?
+        I ran into two main issues; one was the date does not splice evenly everytime so I was soetimes splicing the backslash which does not work. To solve this I thought about it for a bit, and then when I couldnt figure it out i went to miss bono to brainstorm.
+        Another issue I ran into was figuring out how to find the most popular food based on the how I had sorted it. To solve this I created a method that allowed me to organize and find the most popular food; this also allowed me to stremline my code. 
 3. Results
     a. What did the data show? What are your takeaways?
+        The data showed that sandwiches are most popular in every season. I think that this is the case because there were only four types of food and people gererally need a sandwich if it is for lunch or an easy meal.
     b. Describe some possible limitations to your research.
-    c. Given more time and resources, what additional implementation
-    of your question would you be interested to explore?
+        I think some limitations were that there were only four types of food and they were pretty basic so there was not a seasonal food that was able to be popular because it was not represented in the data.
+        I think another limitation was 
+    c. Given more time and resources, what additional implementation of your question would you be interested to explore?
+        I think I would look at seasons and where the most popular foods come from interms of restaurants to see if that changes throughout seasons. 
