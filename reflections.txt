@@ -15,9 +15,9 @@
         Another issue I ran into was figuring out how to find the most popular food based on the how I had sorted it. To solve this I created a method that allowed me to organize and find the most popular food; this also allowed me to stremline my code. 
 3. Results
     a. What did the data show? What are your takeaways?
-        The data showed that sandwiches are most popular in every season. I think that this is the case because there were only four types of food and people gererally need a sandwich if it is for lunch or an easy meal.
+        The data showed that sandwiches are most popular in every season. I think that this is the case because there were only five types of food and people gererally need a sandwich if it is for lunch or an easy meal.
     b. Describe some possible limitations to your research.
-        I think some limitations were that there were only four types of food and they were pretty basic so there was not a seasonal food that was able to be popular because it was not represented in the data.
+        I think some limitations were that there were only five types of food and they were pretty basic so there was not a seasonal food that was able to be popular because it was not represented in the data.
         I think another limitation was 
     c. Given more time and resources, what additional implementation of your question would you be interested to explore?
         I think I would look at seasons and where the most popular foods come from interms of restaurants to see if that changes throughout seasons. 
